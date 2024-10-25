@@ -1,4 +1,4 @@
-package com.company;
+package com.test;
 
 import com.test.Test;
 
@@ -13,7 +13,11 @@ public void EmpID() {
 		Company good= new Company();
 		good.EmpID();
 		good.EmpNamne();
-		
+		Test g= new Test();
+		g.studName();
+		g.studName();
+
+
 	}
 
 }
